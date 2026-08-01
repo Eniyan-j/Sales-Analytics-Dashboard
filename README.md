@@ -96,13 +96,6 @@ Rows: 9,994
 - Business Intelligence
 - Data Visualization
 
----
-
-## Dashboard Screenshots
-
-(Add screenshots here)
-
----
 
 ## Author
 
